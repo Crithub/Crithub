@@ -1,61 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Cobalt</h1>
+<h3 align="center">A 14 year old dork who tries to develop Docker images ( see repos :P )</h3>
 
-It's me, Cobalt.  
-I'm currently looking into Docker and Linux containers  
-I also like to play with servers and shit  
+<p align="left"> <a href="https://twitter.com/cobaltseggs" target="blank"><img src="https://img.shields.io/twitter/follow/cobaltseggs?logo=twitter&style=for-the-badge" alt="cobaltseggs" /></a> </p>
 
-Here's my setup specs, for those who want to see  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/cobaltseggs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cobaltseggs" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/cobaltvids" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cobaltvids" height="30" width="40" /></a>
+<a href="https://discord.gg/ftG353tN6f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ftG353tN6f" height="30" width="40" /></a>
+</p>
 
-## Main Computer Specs  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-CPU: AMD Ryzen 3 3100 4c/8t @ 3.6GHz  
-RAM: 16GB Corsair Vengeance DDR4-3200  
-Int. Storage: 256GB Verbatim Vi550 S3 SSD + 1TB Toshiba P110 HDD  
-Motherboard: Asrock A320M-HDV R4.0  
-Graphics: Asus Dual Mini GeForce GTX 1650 OC 4GB GDDR6  
-Case: CiT Tornado RGB  
-OS: Arch Linux  
-Desktop: KDE Plasma 5  
-Price: £600  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cobaltgit&show_icons=true&theme=dark&title_color=0047ab&text_color=74bad8&locale=en" alt="cobaltgit" /></p>
 
-Well, that's it for my main PC  
-Let's move onto the servers, shall we?  
-
-## Server Specs  
-
-### Sirius Alpha
-
-I bought this server not long ago (May 11th), and I've had some trouble with it for its first day or so*, but we're up and running now.  
-It's an old HP-Compaq Elite 8200 SFF PC from 2011.
-
-CPU: Intel Core i5-2400 4c/4t @ 3.4GHz  
-RAM: SK-Hynix 8GB (2x4GB) DDR3-1333  
-Int. Storage: 256GB Kingston KC600 SATA3 SSD + 1TB WD10EURX IntelliPower HDD  
-Ext. Storage: 2TB Toshiba Canvio Basics USB 3.0 HDD  
-Motherboard: HP PCEBK0ED64N6J1 656933-001 (Intel Q67 Express chipset)  
-Networking: Gigabit Ethernet  
-OS: Debian 11 (Bullseye)  
-Price: £70 + £32 for USB card and HDD = £102  
-
-\*It originally came with a SanDisk Pulse 64GB SSD with Windows 10 installed, which actually turned out to be dead.  
-  (I was getting SMART errors on boot and BSODs, so I had to do with the 250GB HDD on day one.)
-
-### Proxima Centauri
-
-This is a Hetzner CX21, currently has no purpose but I'll see what I can put on there
-
-CPU: Intel Xeon Skylake (2 vCPUs @ 2.25GHz)  
-RAM: 4GB DDR4 (unknown)  
-Storage: 40GB NVMe SSD  
-Networking: 10 Gigabit Ethernet  
-OS: Debian GNU/Linux 11 (Bullseye)  
-
-Well, that was a rundown of my specs I guess
-
-## CONTACT ME
-
-You can mainly reach me via [Discord](http://dsc.bio/cobalthasdiscord) :speech_balloon:  
-All my other usernames will be on the Discord.bio link above.  
-
-Thanks for reading and god speed!  
--Cobalt  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cobaltgit&theme=dark" alt="cobaltgit" /></p>
