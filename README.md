@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Cobalt</h1>
 <h3 align="center">A 14 year old dork who tries to develop Docker images ( see repos :P )</h3>
 
-- 🌱 I’m currently learning **Docker, Python, Golang, you get the point**
+- 🌱 I’m currently learning Docker, Python, Golang, you get the point by now
 
-- 👨‍💻 All of my projects are available at [Right here, I guess](Right here, I guess)
+- 👨‍💻 All of my projects are available [right here, I guess](https://github.com/cobaltgit)
 
-- 📫 How to reach me **See socials under "Connect with me:"**
+- 📫 How to reach me: **See socials under "Connect with me:"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
