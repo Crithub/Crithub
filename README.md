@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cobalt</h1>
-<h3 align="center">A 14 year old dork who tries to develop Docker images ( see repos :P )</h3>
+<h3 align="center">A 14 year old average Joe who likes to program, particularly in Python, and make Docker images ( see repos :P )</h3>
 
 - 🌱 I’m currently learning Docker, Python, Golang, you get the point by now
 
